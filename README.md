@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working at **Iserve IT**
 
-- 🌱 I’m currently learning **Kubernetes and python**
+- 🌱 I’m currently learning **shell scripting**
 
 - 💬 Ask me about **AWS Cloud And Devops**
 
 - 📫 How to reach me **ggervaisarnold@yahoo.com**
 
-- ⚡ Fun fact **I don't get hungry when i am playing the game**
+- ⚡ Fun fact **I don't get hungry when i am playing game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
