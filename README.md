@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Iserve IT**
 
-- 🌱 I’m currently learning **shell scripting**
+- 🌱 I’m currently learning **python programming**
 
 - 💬 Ask me about **AWS Cloud And Devops**
 
